@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\peremesch.zero\peremesch.zero\bin\Debug\net8.0\peremesch.zero.exe
+C:\Users\User\source\repos\peremesch.zero\peremesch.zero\bin\Debug\net8.0\peremesch.zero.deps.json
+C:\Users\User\source\repos\peremesch.zero\peremesch.zero\bin\Debug\net8.0\peremesch.zero.runtimeconfig.json
+C:\Users\User\source\repos\peremesch.zero\peremesch.zero\bin\Debug\net8.0\peremesch.zero.dll
+C:\Users\User\source\repos\peremesch.zero\peremesch.zero\bin\Debug\net8.0\peremesch.zero.pdb
+C:\Users\User\source\repos\peremesch.zero\peremesch.zero\obj\Debug\net8.0\peremesch.zero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\peremesch.zero\peremesch.zero\obj\Debug\net8.0\peremesch.zero.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\peremesch.zero\peremesch.zero\obj\Debug\net8.0\peremesch.zero.AssemblyInfo.cs
+C:\Users\User\source\repos\peremesch.zero\peremesch.zero\obj\Debug\net8.0\peremesch.zero.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\peremesch.zero\peremesch.zero\obj\Debug\net8.0\peremesch.zero.dll
+C:\Users\User\source\repos\peremesch.zero\peremesch.zero\obj\Debug\net8.0\refint\peremesch.zero.dll
+C:\Users\User\source\repos\peremesch.zero\peremesch.zero\obj\Debug\net8.0\peremesch.zero.pdb
+C:\Users\User\source\repos\peremesch.zero\peremesch.zero\obj\Debug\net8.0\peremesch.zero.genruntimeconfig.cache
+C:\Users\User\source\repos\peremesch.zero\peremesch.zero\obj\Debug\net8.0\ref\peremesch.zero.dll
